@@ -1,0 +1,4 @@
+first_name 10
+last_name 15
+address 30
+date_of_birth 10
